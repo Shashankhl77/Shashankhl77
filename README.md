@@ -1,5 +1,5 @@
 - 👋 𝐇𝐢, 𝐈’𝐦 @𝐒𝐡𝐚𝐬𝐡𝐚𝐧𝐤𝐡𝐥𝟕𝟕
-- - 🌱 I’m Full Stack Developer
+- 🌱 I’m a Full Stack Developer
 - 📫 How to reach me  shashankgowdda7275@gmail.com
 
 
